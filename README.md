@@ -1,2 +1,2 @@
 # first-repositorio
-primer repositorio Git hub para curso FreeCodeCamp
+mi primer primer repositorio Git hub para curso FreeCodeCamp
